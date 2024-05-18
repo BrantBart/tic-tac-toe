@@ -1,30 +1,25 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Created a funny tic tac toe game to experiment with Pygame and python coding. X is represented as a raccoon and O is represented as an Opossum. (meant to be funny but functioning to practice logic and programming with the gaming tools)
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+Tic tac toe standart rules, x goes first, take turns and try to get three in a row verticle, horizontal, or diagnal.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://www.youtube.com/watch?v=rkroNyyDgFA
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+IDE: VS Code
 
-{Describe the programming language that you used and any libraries.}
+Pygame library and Python code
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+I like using video tutorials to help get the concepts down.
+* Coding With Russ Youtube https://www.youtube.com/watch?v=KBpfB1qQx8w
+* baraltech Youtube https://www.youtube.com/watch?v=IL_PMGVxEUY
+* baraltech Youtube (sound effects) https://www.youtube.com/watch?v=3Yhhzflmxfs
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Keeping score
+* Add custom images for x and o
